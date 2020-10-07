@@ -4,7 +4,7 @@ bl_info = {
     "version": (0, 1),
     "blender": (2, 80, 0),
     "description": "Provide your language for many addons",
-    "wiki_url": "",
+    "wiki_url": "https://github.com/lishu/addons_languagepack",
     "category": "System",
     }
 

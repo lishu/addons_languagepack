@@ -1,0 +1,35 @@
+{
+   "title": "Language Pack Version - File Hash",
+   "addons": {
+      "addons_languagepack": {
+         "zh_CN": "154a4579c0a15dbce25af9735a2385730d4c07037e4835ae97dfc43950621b7a"
+      },
+      "add_mesh_BoltFactory": {
+         "zh_CN": "ffeb75b8f3046ed42cf30badf01ce1167ffc28a261006030012e27e069d1cd0c"
+      },
+      "animation_nodes": {
+         "zh_CN": "85e5684a5b40e7197c5bb35a532d1d9be90a3bdd08d3d9d477b3d34e41888845"
+      },
+      "blenderkit": {
+         "zh_CN": "47ada6bf4b1584d47f264ee2a04c1ab953b9367d9fd2440b2ca7e2b54850451d"
+      },
+      "BoxCutter": {
+         "zh_CN": "61285500f9159dd930d4ff9b72f9361f30feb7b5001812882c1d0cfe9016a36f"
+      },
+      "io_import_images_as_planes": {
+         "zh_CN": "477d646177b6076c98da9dde1faf5f6bb206de00590db80a25437849e764e392"
+      },
+      "space_view3d_3d_navigation": {
+         "zh_CN": "a8b26c14662844e8ead69c75f8bb44c0b3f37c7b49bc2135d5c217c36dfe3dd5"
+      },
+      "space_view3d_math_vis": {
+         "zh_CN": "c3129c19dcf8071b9762fb40a60a5cdda85269c2810220bcc523924d77a23f7a"
+      },
+      "space_view3d_modifier_tools": {
+         "zh_CN": "07bfb4d19aefe764fa3f8126dbfedb93eba24877203bd348bb94ed95bb911b16"
+      },
+      "space_view3d_stored_views": {
+         "zh_CN": "de51a8d253a45454435fa1a3f4304b7fedd1f13e993cb12da136ce6f63385201"
+      }
+   }
+}
