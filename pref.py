@@ -5,6 +5,8 @@ from bpy.utils import register_class, unregister_class
 from bpy.props import BoolProperty, EnumProperty, StringProperty
 from bpy.app import translations
 
+GITHUB_HOME = "https://github.com/lishu/addons_languagepack"
+
 class AddonsLanguagePackPreferences(AddonPreferences):
     '''选项面板'''
     bl_idname=__package__
@@ -26,10 +28,6 @@ class AddonsLanguagePackPreferences(AddonPreferences):
         # row.prop_tabs_enum(self, 'style_translation')
 
         # layout.operator('system.language_pack_auto_update')
-
-        if self.show_dev_options:
-            row = layout.row(align=True)
-            row.prop(self, 'show_locale_nosupported')
 
         user_locale = translations.locale
         addons = get_installed_addons()
@@ -55,12 +53,22 @@ class AddonsLanguagePackPreferences(AddonPreferences):
                         text="Enable")
                     op.addon_id = id
                     op.enabled = not is_registed
+                    if self.show_dev_options:
+                        op = row2.operator("system.language_pack_open_addon", icon="FILEBROWSER")
+                        op.addon_id = id
+                        op.locale = user_locale
+                        op = row2.operator("wm.url_open", icon="URL", text="GITHUB")
+                        op.url=f"{GITHUB_HOME}/blob/master/libs/{id}/{user_locale}.py"
                 else:
                     row2.label(text="No supported your langauge now", icon="ERROR")
             else:
                 row2.label(text="No supported this addon")
         
-        # layout.prop(self, 'show_dev_options')
+        layout.prop(self, 'show_dev_options')
+
+        if self.show_dev_options:
+            row = layout.row(align=True)
+            row.prop(self, 'show_locale_nosupported')
 
 
 def register():

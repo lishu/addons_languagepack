@@ -2,7 +2,7 @@
    "title": "Language Pack Version - File Hash",
    "addons": {
       "addons_languagepack": {
-         "zh_CN": "154a4579c0a15dbce25af9735a2385730d4c07037e4835ae97dfc43950621b7a"
+         "zh_CN": "1e823b03e890ec08b7524e3941e5ca0892891a78233af1acf8a2fe524d93da1a"
       },
       "add_mesh_BoltFactory": {
          "zh_CN": "ffeb75b8f3046ed42cf30badf01ce1167ffc28a261006030012e27e069d1cd0c"
@@ -14,7 +14,7 @@
          "zh_CN": "47ada6bf4b1584d47f264ee2a04c1ab953b9367d9fd2440b2ca7e2b54850451d"
       },
       "BoxCutter": {
-         "zh_CN": "61285500f9159dd930d4ff9b72f9361f30feb7b5001812882c1d0cfe9016a36f"
+         "zh_CN": "2da136b62692eaad207c3d33d001892cb98e82a820f669ff054629b0f597d89d"
       },
       "io_import_images_as_planes": {
          "zh_CN": "477d646177b6076c98da9dde1faf5f6bb206de00590db80a25437849e764e392"

@@ -23,4 +23,5 @@ lang_dict = {
     ('Operator', 'Disable'): '停用',
     ('Operator', 'Enable'): '启用',
     ('*', 'Enable/Disable Language Pack for this addon'): '对此插件启用/停用语言包',
+    ('*', 'Open Addon locale language pack'): '打开插件的本地化语言包文件',
 }

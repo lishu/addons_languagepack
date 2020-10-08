@@ -1,5 +1,18 @@
 BLOCK_SIZE = 65536
 
+def download_string(uri: str):
+    '''从给定的网址使用 GET 方式获取文本内容'''
+    import requests
+    return requests.get(uri).text
+
+def get_version_json_online(uri: str = None):
+    '''获取线上版本的 version.json 内容'''
+    import json
+    if uri is None:
+        uri = 'https://raw.githubusercontent.com/lishu/addons_languagepack/master/version.json'
+    js = download_string(uri)
+    return json.loads(js)
+
 def get_file_hash(path: str):
     '''获取文件的 hash 代码'''
     import hashlib

@@ -1,3 +1,5 @@
+README > [English](readme_en.md),  [简体中文](readme.md)
+
 # 插件语言包管理器(Addon's Language Package Manager)
 
 这是一个 Blender 插件，用于给其它插件添加语言包而不直接更改其源代码。这样用户可以一直保持更新，所有翻译过的文本仍然能正确显示。
@@ -27,4 +29,4 @@
 
 翻译文件结构为：`(插件模块名称)/(语言).py`。
 * **插件模块名称** 可以在 Blender 插件管理界面中的 `文件：` 部分看到，如果此内容最后一部分是 `/blenderkit/__init__.py`，那它的模块名称为 `blenderkit`，如果是 `curve_assign_shapekey.py` 那它的模块名称为 `curve_assign_shapekey`
-* **语言** 为 blender 定义的语言代码，在 Blender 的设置中界面部分，点击语言，显示出来语言选择面板后，鼠标停在对应语言上，会显示此语言的代码。你也可以直接在 Blender 的 Pytone 控制台中执行 `bpy.app.translations.locale` 查看当前界面的语言代码，或执行 `bpy.app.translations.locales` 查看所有已知的语言代码
+* **语言** 为 blender 定义的语言代码，在 Blender 的设置中界面部分，点击语言，显示出来语言选择面板后，鼠标停在对应语言上，会显示此语言的代码。你也可以直接在 Blender 的 Python 控制台中执行 `bpy.app.translations.locale` 查看当前界面的语言代码，或执行 `bpy.app.translations.locales` 查看所有已知的语言代码

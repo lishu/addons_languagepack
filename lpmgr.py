@@ -52,6 +52,9 @@ def get_module_language_dict(module: str):
         return lang_dict
     return None
 
+def get_module_locale_file(module: str, locale: str):
+    return path.join(__libs, module, f"{locale}.py")
+
 def register_language(module: str, register: bool = True):
     if register:
         auto_register_language(module)
