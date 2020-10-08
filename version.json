@@ -19,6 +19,12 @@
       "io_import_images_as_planes": {
          "zh_CN": "477d646177b6076c98da9dde1faf5f6bb206de00590db80a25437849e764e392"
       },
+      "mesh_auto_mirror": {
+         "zh_CN": "e77a3c30442e3edf3dd2cce502f448361abca747a1ed8db8cef9ddbe28b1cf11"
+      },
+      "mesh_tools": {
+         "zh_CN": "af4efe7d52d2b923a0714f4ba5d7a6379617285546949904d844d19ace9a4e2e"
+      },
       "space_view3d_3d_navigation": {
          "zh_CN": "a8b26c14662844e8ead69c75f8bb44c0b3f37c7b49bc2135d5c217c36dfe3dd5"
       },
