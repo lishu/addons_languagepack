@@ -12,6 +12,8 @@ This plug-in is framework-supported for all languages, but currently the author 
 |-|-|-
 |BoltFactory|✔
 |BlenderKit Online Asset Library|✔
+|Auto Mirror|✔
+|Edit Mesh Tools|✔
 |Addon's Language Package Manager|✔
 |Animation Nodes|✔
 |Import Images as Planes|✔
@@ -22,7 +24,7 @@ This plug-in is framework-supported for all languages, but currently the author 
 |BoxCutter|✔
 <small>✔ Translated ⏱Plan</small>
 
-## 加入翻译
+## Join the translation
 Obviously it is not possible to translate all the languages alone, or know all the good plug-ins. So welcome to join the translation. You know very good use of domestic plug-ins, you can also try to translate into en_US or other languages.
 
 All you need to do is fork this project add or find what you want to translate in the libs directory.
