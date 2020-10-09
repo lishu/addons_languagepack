@@ -1,0 +1,28 @@
+# -*- coding: utf-8 -*-
+
+lang_dict = {
+   ('*', '3D Navigation') : '3D 導航',
+   ('*', '3D View: 3D Navigation') : '3D 視圖： 3D 導航',
+   ('*', 'Navigate the Camera & 3D View from the Toolshelf') : '從工具架導航相機和 3D 視圖',
+   ('*', 'View3D > Sidebar > View Tab') : '3D 視圖 > 邊欄 > 視圖 選項卡',
+   ('*', 'Tab Category:') : '選項卡類別：',
+   ('*', '3D Nav') : '3D 導航',
+   ('Operator', 'View Global / Local') : '全局 / 局部',
+   ('Operator', 'View Persp / Ortho') : '透視 / 正交',
+   ('*', 'Align view from:') : '轉到視角：',
+   ('*', 'Lock View to Object:') : '鎖定到對象：',
+   ('Operator', 'View to Selected') : '查看選中對象',
+   ('*', 'Cursor:') : '遊標：',
+   ('Operator', 'World Origin') : '世界原點',
+   ('Operator', 'View') : '查看',
+   ('*', 'Pan Orbit Zoom Roll') : '相機軌道',
+   ('*', 'Screen View Perspective') : '屏幕視圖透視',
+   ('*', 'Pan:') : '平移：',
+   ('Operator', 'Up') : '上',
+   ('Operator', 'Down') : '下',
+   ('*', 'Orbit:') : '環繞：',
+   ('*', 'Zoom:') : '縮放：',
+   ('Operator', 'In') : '進',
+   ('Operator', 'Out') : '出',
+   ('*', 'Roll:') : '翻滾：',
+}

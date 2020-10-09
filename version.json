@@ -2,40 +2,52 @@
    "title": "Language Pack Version - File Hash",
    "addons": {
       "addons_languagepack": {
-         "zh_CN": "1e823b03e890ec08b7524e3941e5ca0892891a78233af1acf8a2fe524d93da1a"
+         "zh_CN": "1e823b03e890ec08b7524e3941e5ca0892891a78233af1acf8a2fe524d93da1a",
+         "zh_TW": "ff91c0eeeddb525fdc783bed95e7b7789cf4cbcf6bdd06ff7bf88a9f97fffeaf"
       },
       "add_mesh_BoltFactory": {
-         "zh_CN": "ffeb75b8f3046ed42cf30badf01ce1167ffc28a261006030012e27e069d1cd0c"
+         "zh_CN": "ffeb75b8f3046ed42cf30badf01ce1167ffc28a261006030012e27e069d1cd0c",
+         "zh_TW": "6f7e2c023e67716cf03c82cdb643aeb2d4a2f4a485faf865bca1595359b05a55"
       },
       "animation_nodes": {
-         "zh_CN": "85e5684a5b40e7197c5bb35a532d1d9be90a3bdd08d3d9d477b3d34e41888845"
+         "zh_CN": "85e5684a5b40e7197c5bb35a532d1d9be90a3bdd08d3d9d477b3d34e41888845",
+         "zh_TW": "8be463cbf6ddd313ca10f0735fe81ac1f4536f97ea925974b86ce9d7a9664a62"
       },
       "blenderkit": {
-         "zh_CN": "47ada6bf4b1584d47f264ee2a04c1ab953b9367d9fd2440b2ca7e2b54850451d"
+         "zh_CN": "47ada6bf4b1584d47f264ee2a04c1ab953b9367d9fd2440b2ca7e2b54850451d",
+         "zh_TW": "925f47faa706bf61ea2e0b7dfe01bfd3785b4ebc45de7c50b54fdf6976878a9d"
       },
       "BoxCutter": {
-         "zh_CN": "2da136b62692eaad207c3d33d001892cb98e82a820f669ff054629b0f597d89d"
+         "zh_CN": "2da136b62692eaad207c3d33d001892cb98e82a820f669ff054629b0f597d89d",
+         "zh_TW": "351a5ab184fef283212750526e3ed49ecd47c02f97a146944b4808f7a35b068a"
       },
       "io_import_images_as_planes": {
-         "zh_CN": "477d646177b6076c98da9dde1faf5f6bb206de00590db80a25437849e764e392"
+         "zh_CN": "477d646177b6076c98da9dde1faf5f6bb206de00590db80a25437849e764e392",
+         "zh_TW": "c74c988aa474a426bb859add72ae8a5e01f2f4da313dc3e05e506c6282a7f6e0"
       },
       "mesh_auto_mirror": {
-         "zh_CN": "e77a3c30442e3edf3dd2cce502f448361abca747a1ed8db8cef9ddbe28b1cf11"
+         "zh_CN": "e77a3c30442e3edf3dd2cce502f448361abca747a1ed8db8cef9ddbe28b1cf11",
+         "zh_TW": "7ed47227594ab3d801760ab99b50bcc9f4feb0e75b1f29851fd72d51e7c30a0c"
       },
       "mesh_tools": {
-         "zh_CN": "af4efe7d52d2b923a0714f4ba5d7a6379617285546949904d844d19ace9a4e2e"
+         "zh_CN": "af4efe7d52d2b923a0714f4ba5d7a6379617285546949904d844d19ace9a4e2e",
+         "zh_TW": "3706facbe3661bf71f6930a493948768ffde7fdad58391831c603c02fc787533"
       },
       "space_view3d_3d_navigation": {
-         "zh_CN": "a8b26c14662844e8ead69c75f8bb44c0b3f37c7b49bc2135d5c217c36dfe3dd5"
+         "zh_CN": "a8b26c14662844e8ead69c75f8bb44c0b3f37c7b49bc2135d5c217c36dfe3dd5",
+         "zh_TW": "38cec7e6040b537740657e610489be291fc26877770cb485db8f9a5da3c64511"
       },
       "space_view3d_math_vis": {
-         "zh_CN": "c3129c19dcf8071b9762fb40a60a5cdda85269c2810220bcc523924d77a23f7a"
+         "zh_CN": "c3129c19dcf8071b9762fb40a60a5cdda85269c2810220bcc523924d77a23f7a",
+         "zh_TW": "2470ae97bf2fc47ba326e028394453c3b08baf040dbbd95a77e07f709696268c"
       },
       "space_view3d_modifier_tools": {
-         "zh_CN": "07bfb4d19aefe764fa3f8126dbfedb93eba24877203bd348bb94ed95bb911b16"
+         "zh_CN": "07bfb4d19aefe764fa3f8126dbfedb93eba24877203bd348bb94ed95bb911b16",
+         "zh_TW": "096538de2b7147bbf907e43e09b717c73e7e6d354375f6933769f24f2c3f3d0f"
       },
       "space_view3d_stored_views": {
-         "zh_CN": "de51a8d253a45454435fa1a3f4304b7fedd1f13e993cb12da136ce6f63385201"
+         "zh_CN": "de51a8d253a45454435fa1a3f4304b7fedd1f13e993cb12da136ce6f63385201",
+         "zh_TW": "45618c3c2d1d24bb683ddb0809e53f4c5f4837a9982fdd62087576c989efbed1"
       }
    }
 }
