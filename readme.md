@@ -14,6 +14,7 @@ README > [English](readme_en.md),  [简体中文](readme.md)
 |BlenderKit Online Asset Library|✔
 |Auto Mirror|✔
 |Edit Mesh Tools|✔
+|Extra Objects|✔
 |Addon's Language Package Manager|✔
 |Animation Nodes|✔
 |Import Images as Planes|✔

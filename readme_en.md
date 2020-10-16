@@ -14,6 +14,7 @@ This plug-in is framework-supported for all languages, but currently the author 
 |BlenderKit Online Asset Library|✔
 |Auto Mirror|✔
 |Edit Mesh Tools|✔
+|Extra Objects|✔
 |Addon's Language Package Manager|✔
 |Animation Nodes|✔
 |Import Images as Planes|✔
