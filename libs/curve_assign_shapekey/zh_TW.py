@@ -1,0 +1,26 @@
+# -*- coding: utf-8 -*-
+
+lang_dict = {
+   ('*', 'Assign Shape Keys') : '分配形狀鍵',
+   ('*', 'Add Curve: Assign Shape Keys') : '添加曲線：分配形狀鍵',
+   ('*', 'View 3D > Sidebar > Edit Tab') : '3D 視圖 > 邊欄 > 編輯選項卡',
+   ('*', 'Assigns one or more Bezier curves as shape keys to another Bezier curve') : '將一條或多條貝塞爾曲線分配給另一條貝塞爾曲線的形狀鍵',
+   ('*', 'Curve Shape Keys') : '曲線形狀鍵',
+   ('*', 'Morph Curves:') : '變形曲線：',
+   ('*', 'Remove Shape Key Objects') : '刪除形狀鍵對象',
+   ('*', 'Vertex Alignment') : '頂點對齊',
+   ('*', 'Manual Alignment') : '手動對齊',
+   ('*', 'Vertex Coordinates') : '頂點座標',
+   ('*', 'Mark Starting Vertices') : '標記起始頂點',
+   ('*', 'Min X') : 'X 最小值',
+   ('*', 'Max X') : 'X 最大值',
+   ('*', 'Min Y') : 'Y 最小值',
+   ('*', 'Max Y') : 'Y 最大值',
+   ('*', 'Min Z') : 'Z 最小值',
+   ('*', 'Max Z') : 'Z 最大值',
+   ('*', 'Value 1') : '值 1',
+   ('*', 'Value 2') : '值 2',
+   ('*', 'Value 3') : '值 3',
+   ('*', 'Match Parts') : '匹配部分',
+   ('Operator', 'Assign Shape Keys') : '分配形狀鍵',
+}

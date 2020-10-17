@@ -41,7 +41,7 @@ class AddonsLanguagePackPreferences(AddonPreferences):
             if not self.show_locale_nosupported and not (user_locale in support_locales):
                 continue
             row = col.row()
-            row.label(text=bl_info['name'])
+            row.label(text='%s: %s' % (bl_info.get('category', 'Other'), bl_info['name']), translate=False)
             row2 = row.row()
             row2.alignment="RIGHT"
             row2.emboss="NONE"

@@ -10,6 +10,7 @@ README > [English](readme_en.md),  [简体中文](readme.md)
 
 |插件|简体中文(zh_CN)|*等你加入*|
 |-|-|-
+|Assign Shape Keys|✔
 |BoltFactory|✔
 |BlenderKit Online Asset Library|✔
 |Auto Mirror|✔

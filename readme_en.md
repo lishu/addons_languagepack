@@ -10,6 +10,7 @@ This plug-in is framework-supported for all languages, but currently the author 
 
 |Addon|Chinese Simplified(zh_CN)|*Wait for you to join.*|
 |-|-|-
+|Assign Shape Keys|✔
 |BoltFactory|✔
 |BlenderKit Online Asset Library|✔
 |Auto Mirror|✔

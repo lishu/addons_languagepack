@@ -9,6 +9,10 @@
          "zh_CN": "ffeb75b8f3046ed42cf30badf01ce1167ffc28a261006030012e27e069d1cd0c",
          "zh_TW": "6f7e2c023e67716cf03c82cdb643aeb2d4a2f4a485faf865bca1595359b05a55"
       },
+      "add_mesh_extra_objects": {
+         "zh_CN": "e7d2434ae7d82c1370cc36a294d03965328a0392d2b128750bd00b627b8cc796",
+         "zh_TW": "eda791113b42d4bf313d94fb58f2a852c820d6014bb24822e1aeb4eea4dd05cc"
+      },
       "animation_nodes": {
          "zh_CN": "85e5684a5b40e7197c5bb35a532d1d9be90a3bdd08d3d9d477b3d34e41888845",
          "zh_TW": "8be463cbf6ddd313ca10f0735fe81ac1f4536f97ea925974b86ce9d7a9664a62"
@@ -20,6 +24,14 @@
       "BoxCutter": {
          "zh_CN": "2da136b62692eaad207c3d33d001892cb98e82a820f669ff054629b0f597d89d",
          "zh_TW": "351a5ab184fef283212750526e3ed49ecd47c02f97a146944b4808f7a35b068a"
+      },
+      "curve_assign_shapekey": {
+         "zh_CN": "f530d8247a942d0cd24a69cb55223d1659b82b841fde93d5860ee20e24d14a3d",
+         "zh_TW": "a0718732c835d72c5bedff717eed25907446ac6ae3159ba30858a35bb11104f6"
+      },
+      "HOps": {
+         "zh_CN": "50504158773c5f314f1e96ab824522a355f5f73857d2dc9c5fba371f997c9816",
+         "zh_TW": "31891f001ace778769e9899c74ec04c57027c18fe496d551d8d377b01d7f91c4"
       },
       "io_import_images_as_planes": {
          "zh_CN": "477d646177b6076c98da9dde1faf5f6bb206de00590db80a25437849e764e392",
