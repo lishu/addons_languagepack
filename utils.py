@@ -9,7 +9,7 @@ def download_string(uri: str):
 
 def write_languagepack(addon, local, content):
     import os
-    with open(os.path.join(os.path.dirname(__file__), f'libs/{addon}/{local}.py'), 'w') as f:
+    with open(os.path.join(os.path.dirname(__file__), f'libs/{addon}/{local}.py'), 'w', encoding='utf8') as f:
         f.write(content)
 
 def get_languagepack_online(addon, local):

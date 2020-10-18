@@ -24,9 +24,9 @@ lang_dict = {
     ('Operator', 'Enable'): '启用',
     ('*', 'Enable/Disable Language Pack for this addon'): '对此插件启用/停用语言包',
     ('*', 'Open Addon locale language pack'): '打开插件的本地化语言包文件',
-    ('*', 'Checking online...'): '正在检查线上版本…',
-    ('*', 'Updating...'): '更新中',
-    ('*', 'Updated'): '已更新',
-    ('*', 'Update failed'): '更新已失败',
+    ('*', 'Checking online...'): '正在检查更新……',
     ('*', 'All up-to-date'): '全部最新',
+    ('*', 'Updating...'): '更新中……',
+    ('*', 'Updated'): '已更新',
+    ('*', 'Update failed'): '更改已失败',
 }

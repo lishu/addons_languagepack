@@ -65,7 +65,7 @@ def run_update(context, user_language):
             print(f'Download language package for {addon}({user_language})')
             lp = get_languagepack_online(addon, user_language)
             if lp:
-                #write_languagepack(addon, user_language, lp)
+                write_languagepack(addon, user_language, lp)
                 set_version_hash(local_version, addon, user_language, update_addons[addon])
         # 更新本地版本文件
         set_version_json_local(local_version_obj)
