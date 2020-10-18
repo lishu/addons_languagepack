@@ -23,11 +23,26 @@ class AddonsLanguagePackPreferences(AddonPreferences):
     def draw(self, context):
         layout = self.layout
 
-        # row = layout.row(align=True)
+        row = layout.row(align=True)
         # row.label(text="Translation Style")
         # row.prop_tabs_enum(self, 'style_translation')
 
-        # layout.operator('system.language_pack_auto_update')
+        update_status = context.window_manager.addons_languagepack_update_status
+        if update_status == 'NONE':
+            row.operator('system.language_pack_auto_update')
+        elif update_status == 'CHECK':
+            row.label(text='Checking online...', icon='PHYSICS')
+        elif update_status == 'CHECKED':
+            row.label(text='All up-to-date', icon='FUND')
+            row.operator('system.language_pack_auto_update')
+        elif update_status == 'UPDATING':
+            row.label(text='Updating...', icon='TIME')
+        elif update_status == 'DONE':
+            row.label(text='Updated', icon='FUND')
+            row.operator('system.language_pack_auto_update')
+        elif update_status == 'FAIL':
+            row.label(text='Update failed', icon='ERROR')
+            row.operator('system.language_pack_auto_update')
 
         user_locale = translations.locale
         addons = get_installed_addons()

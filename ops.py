@@ -1,6 +1,7 @@
 import bpy
 from bpy.props import BoolProperty, StringProperty
 from .lpmgr import register_language, get_module_locale_file
+from .autoupdate import run_update
 
 class SystemLanguagePackOpenAddon(bpy.types.Operator):
     bl_idname = "system.language_pack_open_addon"
@@ -57,10 +58,17 @@ class SystemLanguagePackAutoUpdate(bpy.types.Operator):
     @classmethod
     def poll(cls, context):
         return True
+    
+    def modal(self, context, event):
+        return {"PASS_THROUGH"}
 
-    def execute(self, context):
-        
-        return {"FINISHED"}
+    def execute(self, context):        
+        import threading
+        threading.Thread(target=run_update, args=[context, bpy.app.translations.locale]).start()
+        return {"RUNNING_MODAL"}
+
+        # run_update(context=context)
+        # return {'FINISHED'}
 
 def register():
     bpy.utils.register_class(SystemLanguagePackAutoUpdate)
