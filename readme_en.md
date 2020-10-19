@@ -24,6 +24,8 @@ This plug-in is framework-supported for all languages, but currently the author 
 |Modifier Tools|✔
 |Stored Views|✔
 |BoxCutter|✔
+|IvyGen|✔
+|Curve Tools|✔
 <small>✔ Translated ⏱Plan</small>
 
 ## Join the translation

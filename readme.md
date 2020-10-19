@@ -24,6 +24,8 @@ README > [English](readme_en.md),  [简体中文](readme.md)
 |Modifier Tools|✔
 |Stored Views|✔
 |BoxCutter|✔
+|IvyGen|✔
+|Curve Tools|✔
 <small>✔ 已翻译 ⏱计划</small>
 
 ## 加入翻译

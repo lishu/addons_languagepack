@@ -5,6 +5,10 @@
          "zh_CN": "c5f9889b6e8ea2dad3f0c529a130c7421665014b3d217c1b3ab6a1e114f410ed",
          "zh_TW": "af2f53c34ff93b3739d6aa31a086f2b61397bc2d65be895d12fac39fc2b17279"
       },
+      "add_curve_ivygen": {
+         "zh_CN": "d259be81896c2b3b37d8095e2236a2142b7dde74aa8dd665a08ce80bfdd7dd44",
+         "zh_TW": "e50ca42d6977d3e739952c88553a8e787059943fdcd6d8a47e1bbff1310638e1"
+      },
       "add_mesh_BoltFactory": {
          "zh_CN": "ffeb75b8f3046ed42cf30badf01ce1167ffc28a261006030012e27e069d1cd0c",
          "zh_TW": "6f7e2c023e67716cf03c82cdb643aeb2d4a2f4a485faf865bca1595359b05a55"
@@ -28,6 +32,10 @@
       "curve_assign_shapekey": {
          "zh_CN": "f530d8247a942d0cd24a69cb55223d1659b82b841fde93d5860ee20e24d14a3d",
          "zh_TW": "a0718732c835d72c5bedff717eed25907446ac6ae3159ba30858a35bb11104f6"
+      },
+      "curve_tools": {
+         "zh_CN": "f94741f8ae1cd67ad92b770c4d60fea5ddccf6550a1ad7476e427fc7f8068903",
+         "zh_TW": "d5b285cb265bb8c5db496f2f973ac87fd61a7a6dd22441372de7381e45b12b5d"
       },
       "HOps": {
          "zh_CN": "50504158773c5f314f1e96ab824522a355f5f73857d2dc9c5fba371f997c9816",
