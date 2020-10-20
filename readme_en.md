@@ -26,6 +26,8 @@ This plug-in is framework-supported for all languages, but currently the author 
 |BoxCutter|✔
 |IvyGen|✔
 |Curve Tools|✔
+|LoopTools|✔
+|Align Tools|✔
 <small>✔ Translated ⏱Plan</small>
 
 ## Join the translation

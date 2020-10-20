@@ -26,6 +26,8 @@ README > [English](readme_en.md),  [简体中文](readme.md)
 |BoxCutter|✔
 |IvyGen|✔
 |Curve Tools|✔
+|LoopTools|✔
+|Align Tools|✔
 <small>✔ 已翻译 ⏱计划</small>
 
 ## 加入翻译

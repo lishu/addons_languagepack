@@ -1,7 +1,7 @@
 bl_info = {
     "name": "Addon's Language Package Manager",
     "author": "lishu",
-    "version": (0, 4),
+    "version": (0, 5),
     "blender": (2, 80, 0),
     "description": "Provide your language for many addons",
     "wiki_url": "https://github.com/lishu/addons_languagepack",

@@ -49,6 +49,10 @@
          "zh_CN": "e77a3c30442e3edf3dd2cce502f448361abca747a1ed8db8cef9ddbe28b1cf11",
          "zh_TW": "7ed47227594ab3d801760ab99b50bcc9f4feb0e75b1f29851fd72d51e7c30a0c"
       },
+      "mesh_looptools": {
+         "zh_CN": "f2a8ee615a0004291c693f42bf6177e51a4e919b350685e9731af719eff41c2b",
+         "zh_TW": "6540771b2f046ca208492229f6f9217fc8b3ec77e84beb79854bb67c3ab746af"
+      },
       "mesh_tools": {
          "zh_CN": "af4efe7d52d2b923a0714f4ba5d7a6379617285546949904d844d19ace9a4e2e",
          "zh_TW": "3706facbe3661bf71f6930a493948768ffde7fdad58391831c603c02fc787533"
@@ -56,6 +60,10 @@
       "space_view3d_3d_navigation": {
          "zh_CN": "a8b26c14662844e8ead69c75f8bb44c0b3f37c7b49bc2135d5c217c36dfe3dd5",
          "zh_TW": "38cec7e6040b537740657e610489be291fc26877770cb485db8f9a5da3c64511"
+      },
+      "space_view3d_align_tools": {
+         "zh_CN": "fa2beb93707a8e079c577edc11f96cd2f822b83d7e0e4525a64cc911199e8888",
+         "zh_TW": "1be8a955c49a5409c80bd66ab224b0cd48cdf4ef9225a296140e32fc216532d7"
       },
       "space_view3d_math_vis": {
          "zh_CN": "c3129c19dcf8071b9762fb40a60a5cdda85269c2810220bcc523924d77a23f7a",
