@@ -9,6 +9,10 @@
          "zh_CN": "d259be81896c2b3b37d8095e2236a2142b7dde74aa8dd665a08ce80bfdd7dd44",
          "zh_TW": "e50ca42d6977d3e739952c88553a8e787059943fdcd6d8a47e1bbff1310638e1"
       },
+      "add_curve_sapling": {
+         "zh_CN": "85692684777dc68d372704241c9d6e69b319bc7981745b941a82b029adccd70d",
+         "zh_TW": "37ae146c6e3e25d9448fe3aafbb85e4cf0026a22e7c7a8c3e5508ad0cf02acbf"
+      },
       "add_mesh_BoltFactory": {
          "zh_CN": "ffeb75b8f3046ed42cf30badf01ce1167ffc28a261006030012e27e069d1cd0c",
          "zh_TW": "6f7e2c023e67716cf03c82cdb643aeb2d4a2f4a485faf865bca1595359b05a55"
