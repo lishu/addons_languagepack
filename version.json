@@ -33,6 +33,10 @@
          "zh_CN": "2da136b62692eaad207c3d33d001892cb98e82a820f669ff054629b0f597d89d",
          "zh_TW": "351a5ab184fef283212750526e3ed49ecd47c02f97a146944b4808f7a35b068a"
       },
+      "building_tools": {
+         "zh_CN": "6dca40a445db20dd5d3639d83c13ff2c50e30f98d5b392dd0a1b0c255dcbe125",
+         "zh_TW": "8de432d9795f5c8beca4653347d38a5aa9e80266a6ee1f62655523338a2cbc28"
+      },
       "curve_assign_shapekey": {
          "zh_CN": "f530d8247a942d0cd24a69cb55223d1659b82b841fde93d5860ee20e24d14a3d",
          "zh_TW": "a0718732c835d72c5bedff717eed25907446ac6ae3159ba30858a35bb11104f6"

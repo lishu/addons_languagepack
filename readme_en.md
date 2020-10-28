@@ -8,27 +8,29 @@ This plug-in is framework-supported for all languages, but currently the author 
 
 ## Translation plan
 
-|Addon|Chinese Simplified(zh_CN)|*Wait for you to join.*|
-|-|-|-
-|Assign Shape Keys|✔
-|BoltFactory|✔
-|BlenderKit Online Asset Library|✔
-|Auto Mirror|✔
-|Edit Mesh Tools|✔
-|Extra Objects|✔
-|Addon's Language Package Manager|✔
-|Animation Nodes|✔
-|Import Images as Planes|✔
-|3D Navigation|✔
-|Math Vis (Console)|✔
-|Modifier Tools|✔
-|Stored Views|✔
-|BoxCutter|✔
-|IvyGen|✔
-|Curve Tools|✔
-|LoopTools|✔
-|Align Tools|✔
-<small>✔ Translated ⏱Plan</small>
+|Addon|Chinese Simplified(zh_CN)|Chinese Traditional(zh_TW)|*Wait for you to join.*|
+|-|-|-|-
+|Add Curve: Sapling Tree Gen|✔|🖥
+|Assign Shape Keys|✔|🖥
+|BoltFactory|✔|🖥
+|BlenderKit Online Asset Library|✔|🖥
+|Auto Mirror|✔|🖥
+|Edit Mesh Tools|✔|🖥
+|Extra Objects|✔|🖥
+|Addon's Language Package Manager|✔|🖥
+|Animation Nodes|✔|🖥
+|Import Images as Planes|✔|🖥
+|3D Navigation|✔|🖥
+|Math Vis (Console)|✔|🖥
+|Mesh: Building Tools|✔|🖥
+|Modifier Tools|✔|🖥
+|Stored Views|✔|🖥
+|BoxCutter|✔|🖥
+|IvyGen|✔|🖥
+|Curve Tools|✔|🖥
+|LoopTools|✔|🖥
+|Align Tools|✔|🖥
+<small>✔ Translated 🖥 Machine translation ⏱Plan</small>
 
 ## Join the translation
 Obviously it is not possible to translate all the languages alone, or know all the good plug-ins. So welcome to join the translation. You know very good use of domestic plug-ins, you can also try to translate into en_US or other languages.

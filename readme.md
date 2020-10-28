@@ -8,27 +8,29 @@ README > [English](readme_en.md),  [简体中文](readme.md)
 
 ## 翻译计划
 
-|插件|简体中文(zh_CN)|*等你加入*|
-|-|-|-
-|Assign Shape Keys|✔
-|BoltFactory|✔
-|BlenderKit Online Asset Library|✔
-|Auto Mirror|✔
-|Edit Mesh Tools|✔
-|Extra Objects|✔
-|Addon's Language Package Manager|✔
-|Animation Nodes|✔
-|Import Images as Planes|✔
-|3D Navigation|✔
-|Math Vis (Console)|✔
-|Modifier Tools|✔
-|Stored Views|✔
-|BoxCutter|✔
-|IvyGen|✔
-|Curve Tools|✔
-|LoopTools|✔
-|Align Tools|✔
-<small>✔ 已翻译 ⏱计划</small>
+|插件|简体中文(zh_CN)|繁体中文(zh_TW)|*等你加入*|
+|-|-|-|-
+|Add Curve: Sapling Tree Gen|✔|🖥
+|Assign Shape Keys|✔|🖥
+|BoltFactory|✔|🖥
+|BlenderKit Online Asset Library|✔|🖥
+|Auto Mirror|✔|🖥
+|Edit Mesh Tools|✔|🖥
+|Extra Objects|✔|🖥
+|Addon's Language Package Manager|✔|🖥
+|Animation Nodes|✔|🖥
+|Import Images as Planes|✔|🖥
+|3D Navigation|✔|🖥
+|Math Vis (Console)|✔|🖥
+|Mesh: Building Tools|✔|🖥
+|Modifier Tools|✔|🖥
+|Stored Views|✔|🖥
+|BoxCutter|✔|🖥
+|IvyGen|✔|🖥
+|Curve Tools|✔|🖥
+|LoopTools|✔|🖥
+|Align Tools|✔|🖥
+<small>✔ 已翻译 🖥 机器翻译 ⏱计划</small>
 
 ## 加入翻译
 很显然不可能一个人翻译所有的语言，或知道所有好的插件。所以欢迎大家一起来加入翻译。你知道很好用的国产插件，也可以试着翻译成英文(en_US)或其它语言
